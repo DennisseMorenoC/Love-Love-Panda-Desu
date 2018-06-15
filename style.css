@@ -1,0 +1,106 @@
+.bg-pink{
+    background-color: rgb(247, 152, 128);
+}
+header{
+    color: white;
+    padding: 2% 0;
+    text-align: right;
+}
+.panda1{
+    background-image: url(img/uno.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    padding: 20% 0;
+    filter: grayscale(100%);
+}
+.texto{
+    background-color: rgb(247, 152, 128);
+    background-size: cover;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.container2{
+    background-color: rgb(155, 199, 130);
+    background-repeat: no-repeat;
+    padding: 20% 0;
+    height: 600px;
+}
+.col-5{
+    background-color:  rgb(247, 152, 128);
+    text-align: center;
+    color: white;
+    padding: 2%;
+    margin-top: -12%;
+    margin-left: 28%;
+}
+.panda2{
+    background-image: url(img/dos.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    padding: 25% 0;
+    filter: grayscale(100%);
+}
+.container3{
+    background-color: rgb(155, 199, 130);
+    background-repeat: no-repeat;
+    padding-top: 15%;
+    padding-bottom: 8%;
+    padding-left: 0;
+    padding-right: 0;
+    color: white;
+    text-align: center;
+}
+.panditas{
+    background-color: rgb(247, 152, 128);
+    background-size: cover;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+h2{
+    margin-top: -8%;
+    font-weight: bolder;
+    font-size: 50px;
+}
+.img1{
+    width: 100%;
+    border: 13px solid white;
+    margin-top: 0px;
+    margin-left: 190px;
+}
+.img2{
+    width: 100%;
+    border: 13px solid white;
+    margin-top: 0px;
+    margin-left: 210px;
+}
+.img3{
+    width: 100%;
+    border: 13px solid white;
+    margin-top: 0px;
+    margin-left: 230px;
+}
+.img4{
+    width: 100%;
+    border: 13px solid white;
+    margin-top: 0px;
+    margin-left: 250px;
+}
+.panda3{
+    background-image: url(img/tres.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    padding: 25% 0;
+    filter: grayscale(100%);
+}
+.love{
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 1px;
+    padding-left: 0;
+    padding-right: 23px;
+    text-align: right;
+    background-color: rgb(247, 152, 128);
+}
